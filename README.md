@@ -5,7 +5,7 @@
 ---
 ## How to run
 - Install Violentmonkey extension in your browser [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
-- To install **autoclicker** install [this script](https://github.com/S3C237/blum/raw/main/blum-autoclicker.user.js)
+- To install **Blum Autoclicker** install [this script](https://github.com/S3C237/blum/raw/main/blum-autoclicker.user.js)
 - Open [Blum](http://t.me/BlumCryptoBot/app?startapp=ref_zivhqWL7wP) and run the game
 
 ## ![Result](result.gif)
