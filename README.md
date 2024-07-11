@@ -5,9 +5,8 @@
 ---
 ## How to run
 - Install extension in your browser [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
-- In order for **TapSwap** to open in a browser, install [this script](https://github.com/S3C237/blum/raw/main/blum-autoclicker.user.js)
 - To install **autoclicker** install [this script](https://github.com/S3C237/blum/raw/main/blum-autoclicker.user.js)
-- Open [Bot Hamster Kombat](http://t.me/BlumCryptoBot/app?startapp=ref_zivhqWL7wP) and run the game
+- Open [Blum](http://t.me/BlumCryptoBot/app?startapp=ref_zivhqWL7wP) and run the game
 
 ## ![Result](result.gif)
 ---
